@@ -1,3 +1,5 @@
+from Udemy course (https://www.udemy.com/course/react-redux/learn/lecture/12823383#overview) 2019 update.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
